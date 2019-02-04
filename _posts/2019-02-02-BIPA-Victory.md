@@ -18,12 +18,12 @@ brief](https://www.eff.org/document/2018-07-05-rosenbach-v-six-flags-amicus-brie
 BIPA protects biometric data and is one of the most robust privacy laws in the
 country–which is why companies like Facebook and Google have been aggressively
 [lobbying](https://www.theverge.com/2018/4/10/17218756/facebook-biometric-privacy-lobbying-bipa-illinois)
-against it. In spite of that pressure, on January 25th the State Supreme Court
-held that an individual can sue a private business for collecting their
-biometric data without their informed consent.
+against it. In spite of that pressure, on January 25 of this year the State
+Supreme Court held that an individual can sue a private business for collecting
+their biometric data without their informed consent.
 
 BIPA was enacted over a decade ago, as a reaction to the increasing collection
-and use of biometric information.  Under BIPA, if a business wants to collect
+and use of biometric information. Under BIPA, if a business wants to collect
 someone’s biometrics, the business must obtain written consent beforehand. BIPA
 also allows individuals to sue businesses that violate the law. However, until
 last week, it was unclear whether a technical violation of the statute could
@@ -48,7 +48,7 @@ that because collecting biometrics without consent is a harm under BIPA, suing
 for damages is appropriate.
 
 Much of the court’s decision looked to the legislature’s intent in enacting
-BIPA. Citing Patel v. Facebook Inc., a similar case pending in the 9th Circuit,
+BIPA. Citing _Patel v. Facebook Inc._, a similar case pending in the 9th Circuit,
 the court argued that “when a private entity fails to adhere to [BIPA’s]
 statutory procedures,” an individual shouldn’t have to show any harm beyond the
 violation. In violating BIPA, “the precise harm the Illinois legislature sought
@@ -75,5 +75,5 @@ lawsuits in Illinois demanding respect for privacy. Alongside these suits, we
 also expect tech companies to ramp up their lobbying efforts, in order to
 prevent [similar
 laws](https://www.nytimes.com/2018/06/28/technology/california-online-privacy-law.html)
-nationwide. As this fight continues, Lucy Parsons Lab will continue to advocate
+nationwide. As this fight continues, Lucy Parsons Labs will continue to advocate
 for privacy, in all its forms.
